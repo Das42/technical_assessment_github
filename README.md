@@ -16,7 +16,7 @@
   * Switch to the master branch..
   * Edit the "jokes.md" file by adding your name and a joke.
   * Commit and push these changes to the master from the command line.
-  * Switch over to GitHub and comment your guesses of any existing questions ***on the respective commit*** that added the given joke.
+  * Switch over to GitHub and comment your guesses/comments on any existing jokes ***on the respective commit*** that added the given joke.
   
 #### Step 5:
   * Await Curtis's approval of your joke. Minimum of two chuckles required.
