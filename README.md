@@ -21,4 +21,6 @@
 #### Step 5:
   * Await Curtis's approval of your joke. Minimum of two chuckles required.
 
+#### Step 6:
+  * I'll keep going with more advanced use cases...
 
