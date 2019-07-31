@@ -1,5 +1,5 @@
 # Welcome!
-## This repo will show you how to become an honorrary member of the annex and practice Git along the way.
+## This repo will show you how to become an honorary member of the annex and practice Git along the way.
 ### Complete all of the below steps from the command line unless specified otherwise.
 
 #### Step 1:
