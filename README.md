@@ -15,27 +15,32 @@
   
 #### Step 4:
   * Create a text file in your branch called "(yourname)_two_truths_one_lie.txt" and populate it accordingly.
+  * Commit these changes to your local personal branch.
 
 #### Step 5:
-  * While still on your personal branch, edit the "jokes.md" file by adding your name as a title and a joke as plain text below it.
-  * Commit and push these changes to your personal branch.
-  
+  * Push your local personal branch upstream to the remote repo.
+    * _hint: If you try to use "git push" you will get an error because your personal branch doesn't exist in the reomte repo yet. Use the suggested "--set-upstream origin (personalbranch)" operator in addition to the "git push" function to create an upstream origin branch to push to.
+
 #### Step 6:
   * Hop over to GitHub in your web browser of choice. 
   * Go through a few peoples' personal branches and comment your guesses for their "two_truths_one_lie" file ***on the commit*** that added the file to their branch.
+  * Head back to your terminal when you are done.
 
 #### Step 7:
-  * Switch back to the command line terminal.
+  * Switch to your local master branch and merge it with your local personal branch.
+    * This will add your "two_truths_one_lie" file to the local master branch
+
+#### Step 8:
+  * While still on the local master branch, edit the "jokes.md" file by adding your name as a title and a joke as plain text below it.
+  * Commit these changes.
   
 #### Step 8:
-  * From here, ensure that all changes to your branch have been pushed.
-
-#### Step 9:
-  * Switch to the _master_ branch and merge in your personal branch.
+  * From here, ensure that your local master branch contains your unique "two_truths_on_lie" file and the "jokes.md" file with your joke in it.
+  * Push your master branch.
 
 #### Step 10:
   * Hop back over to GitHub to visually verify that your unique "two_truths_one_lie" file has been added to the master branch, and that your joke is present in the master "jokes.md" file. 
 
 #### Step 11:
-  * Await Curtis's approval of your joke. Minimum of two chuckles required.
+  * Await Curtis's approval of your joke. A minimum of two chuckles are required.
 
