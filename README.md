@@ -1,6 +1,6 @@
 # Welcome!
 ## This repo will show you how to become an honorary member of the annex, and will help you practice Git along the way.
-### Complete all of the steps below from the command line unless specified otherwise.
+### Complete the steps below independently once you have finished the GitHub Ultimate course on Udemy. All of the steps should be completed from the command line unless specified otherwise.
 
 #### Step 1:
   * Email/Slack Logan with your GitHub username to be added as a collaborator on this repo.
