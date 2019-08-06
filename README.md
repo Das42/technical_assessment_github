@@ -1,26 +1,51 @@
 # Welcome!
-## This repo will show you how to become an honorrary member of the annex and practice Git along the way.
-### Complete all of the below steps from the command line unless specified otherwise.
+## This repo will show you how to become an honorary member of the annex, and will help you practice Git along the way.
+### Complete all of the steps below from the command line unless specified otherwise.
 
 #### Step 1:
-  * Clone this repo using SSH.
+  * Email/Slack Logan with your GitHub username to be added as a contributor on this repo.
 
 #### Step 2:
-  * Make a personal branch (yourname) of this repo. Create/edit user specific files here. We will merge these branches to _master_ later on.
-  
-#### Step 3:
-  * Fill out "two_truths_and_a_lie.txt".
-  * Commit and push these changes.
+  * Clone this repo using SSH.
+    * __**hint:**__ _checkout [Session 7](https://das42.udemy.com/github-ultimate/learn/lecture/4731854#content) of the Udemy training course_
 
-#### Step 4:
-  * Switch to the master branch..
-  * Edit the "jokes.md" file by adding your name and a joke.
-  * Commit and push these changes to the master from the command line.
-  * Switch over to GitHub and comment your guesses/comments on any existing jokes ***on the respective commit*** that added the given joke.
+#### Step 3:
+  * Create a personal branch (yourname) and switch to it. 
+    * You will merge this personal branch to _master_ later on.
   
+#### Step 4:
+  * Create a text file in your branch called _YOURNAME_two_truths_one_lie.txt_ and populate it accordingly.
+  * Commit these changes to your local personal branch.
+
 #### Step 5:
-  * Await Curtis's approval of your joke. Minimum of two chuckles required.
+  * Push your local personal branch upstream to the remote repo.
+    * __**hint:**__ _If you try to use_ `git push` _you will get an error because your personal branch doesn't exist in the reomte repo yet. Use the suggested_ `--set-upstream origin` _operator in addition to the_ `git push` _function to create an upstream origin branch to push to._
 
 #### Step 6:
-  * I'll keep going with more advanced use cases...
+  * Hop over to GitHub in your web browser of choice. 
+  * Go through a few peoples' personal branches and comment your guesses for their _two_truths_one_lie_ file **on the commit** that added the file to their branch.
+  * Head back to your terminal when you are done.
 
+#### Step 7:
+  * Switch to your local master branch and pull from the remote master branch to make sure that everything is up to date.
+
+#### Step 8
+  * Merge your local master branch with your local personal branch.
+    * This will add your unique _two_truths_one_lie_ file to the local master branch
+
+#### Step 9:
+  * While still on the local master branch, edit the _jokes.md_ file by adding your name as a title and a joke as plain text below it.
+  * Commit these changes with a commit message that includes your name.
+  
+#### Step 10:
+  * From here, ensure that your local master branch contains your unique _two_truths_on_lie_ file and the _jokes.md_ file with your joke in it.
+  * Push your local master branch to the remote repo.
+
+#### Step 11:
+  * Hop back over to GitHub to visually verify that your unique _two_truths_one_lie_ file has been added to the master branch, and that your joke is present in the master _jokes.md_ file. 
+
+#### Step 12:
+  * Message Logan once you've completed these steps.
+
+#### Step 13:
+  * Await King Curtis's approval of your joke (minimum of two chuckles required) and eagerly await your letter of acceptance into the annex. 
