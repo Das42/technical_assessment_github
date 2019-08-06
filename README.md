@@ -7,7 +7,7 @@
 
 #### Step 2:
   * Clone this repo using SSH.
-    * _hint: checkout Session 7 of the Udemy training course_
+    * __**hint:**__ _checkout Session 7 of the Udemy training course_
 
 #### Step 3:
   * Create a personal branch (yourname) and switch to it. 
@@ -19,11 +19,11 @@
 
 #### Step 5:
   * Push your local personal branch upstream to the remote repo.
-    * _hint: If you try to use "git push" you will get an error because your personal branch doesn't exist in the reomte repo yet. Use the suggested "--set-upstream origin (personalbranch)" operator in addition to the "git push" function to create an upstream origin branch to push to._
+    * __**hint:**__ _If you try to use_ `git push` _you will get an error because your personal branch doesn't exist in the reomte repo yet. Use the suggested_ `--set-upstream origin` _operator in addition to the_ `git push` _function to create an upstream origin branch to push to._
 
 #### Step 6:
   * Hop over to GitHub in your web browser of choice. 
-  * Go through a few peoples' personal branches and comment your guesses for their "two_truths_one_lie" file ***on the commit*** that added the file to their branch.
+  * Go through a few peoples' personal branches and comment your guesses for their "two_truths_one_lie" file **on the commit** that added the file to their branch.
   * Head back to your terminal when you are done.
 
 #### Step 7:
