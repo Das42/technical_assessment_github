@@ -48,5 +48,4 @@
   * Message Logan once you've completed these steps.
 
 #### Step 13:
-  * Bombard Curtis's Slack (at your own risk) requesting aprroval of your joke.
-  * Await King Curtis's approval. A minimum of two chuckles is required.
+  * Await King Curtis's approval of your joke (minimum of two chuckles required) and eagerly await your letter of acceptance into the annex. 
