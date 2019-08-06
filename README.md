@@ -45,5 +45,8 @@
   * Hop back over to GitHub to visually verify that your unique "two_truths_one_lie" file has been added to the master branch, and that your joke is present in the master "jokes.md" file. 
 
 #### Step 12:
+  * Message Logan once you've completed these steps.
+
+#### Step 13:
   * Bombard Curtis's Slack (at your own risk) requesting aprroval of your joke.
   * Await King Curtis's approval. A minimum of two chuckles is required.
