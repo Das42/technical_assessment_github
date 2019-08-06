@@ -19,7 +19,7 @@
 
 #### Step 5:
   * Push your local personal branch upstream to the remote repo.
-    * _hint: If you try to use "git push" you will get an error because your personal branch doesn't exist in the reomte repo yet. Use the suggested "--set-upstream origin (personalbranch)" operator in addition to the "git push" function to create an upstream origin branch to push to.
+    * _hint: If you try to use "git push" you will get an error because your personal branch doesn't exist in the reomte repo yet. Use the suggested "--set-upstream origin (personalbranch)" operator in addition to the "git push" function to create an upstream origin branch to push to._
 
 #### Step 6:
   * Hop over to GitHub in your web browser of choice. 
@@ -27,20 +27,23 @@
   * Head back to your terminal when you are done.
 
 #### Step 7:
-  * Switch to your local master branch and merge it with your local personal branch.
-    * This will add your "two_truths_one_lie" file to the local master branch
+  * Switch to your local master branch and pull from the remote master branch to make sure that everything is up to date.
 
-#### Step 8:
+#### Step 8
+  * Merge your local master branch with your local personal branch.
+    * This will add your unique "two_truths_one_lie" file to the local master branch
+
+#### Step 9:
   * While still on the local master branch, edit the "jokes.md" file by adding your name as a title and a joke as plain text below it.
   * Commit these changes with a commit message that includes your name.
   
-#### Step 8:
+#### Step 10:
   * From here, ensure that your local master branch contains your unique "two_truths_on_lie" file and the "jokes.md" file with your joke in it.
   * Push your local master branch to the remote repo.
 
-#### Step 10:
+#### Step 11:
   * Hop back over to GitHub to visually verify that your unique "two_truths_one_lie" file has been added to the master branch, and that your joke is present in the master "jokes.md" file. 
 
-#### Step 11:
-  * Await Curtis's approval of your joke. A minimum of two chuckles are required.
-
+#### Step 12:
+  * Bombard Curtis's Slack (at your own risk) requesting aprroval of your joke.
+  * Await King Curtis's approval. A minimum of two chuckles is required.
