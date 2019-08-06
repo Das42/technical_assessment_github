@@ -32,11 +32,11 @@
 
 #### Step 8:
   * While still on the local master branch, edit the "jokes.md" file by adding your name as a title and a joke as plain text below it.
-  * Commit these changes.
+  * Commit these changes with a commit message that includes your name.
   
 #### Step 8:
   * From here, ensure that your local master branch contains your unique "two_truths_on_lie" file and the "jokes.md" file with your joke in it.
-  * Push your master branch.
+  * Push your local master branch to the remote repo.
 
 #### Step 10:
   * Hop back over to GitHub to visually verify that your unique "two_truths_one_lie" file has been added to the master branch, and that your joke is present in the master "jokes.md" file. 
