@@ -3,7 +3,7 @@
 ### Complete all of the steps below from the command line unless specified otherwise.
 
 #### Step 1:
-  * Email/Slack Logan with your GitHub username to be added as a contributor on this repo.
+  * Email/Slack Logan with your GitHub username to be added as a collaborator on this repo.
 
 #### Step 2:
   * Clone this repo using SSH.
