@@ -9,7 +9,7 @@ What do you call a three legged cow?
 Ground beef!
 
 
-#Bruce
+# Bruce
 I tried to catch fog yesterday
 .
 .
@@ -17,3 +17,7 @@ I tried to catch fog yesterday
 .
 .
 Mist.
+
+
+# Michael
+"I have a split personality", said John, being frank.
