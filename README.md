@@ -1,26 +1,41 @@
 # Welcome!
-## This repo will show you how to become an honorary member of the annex and practice Git along the way.
-### Complete all of the below steps from the command line unless specified otherwise.
+## This repo will show you how to become an honorary member of the annex, and will help you practice Git along the way.
+### Complete all of the steps below from the command line unless specified otherwise.
 
 #### Step 1:
-  * Clone this repo using SSH.
+  * Email/Slack Logan with your GitHub username to be added as a contributor on this repo.
 
 #### Step 2:
-  * Make a personal branch (yourname) of this repo. Create/edit user specific files here. We will merge these branches to _master_ later on.
-  
+  * Clone this repo using SSH.
+    * _hint: checkout Session 7 of the Udemy training course_
+
 #### Step 3:
-  * Fill out "two_truths_and_a_lie.txt".
-  * Commit and push these changes.
-
-#### Step 4:
-  * Switch to the master branch..
-  * Edit the "jokes.md" file by adding your name and a joke.
-  * Commit and push these changes to the master from the command line.
-  * Switch over to GitHub and comment your guesses/comments on any existing jokes ***on the respective commit*** that added the given joke.
+  * Create a personal branch (yourname) and switch to it. 
+    * You will merge this personal branch to _master_ later on.
   
-#### Step 5:
-  * Await Curtis's approval of your joke. Minimum of two chuckles required.
+#### Step 4:
+  * Create a text file in your branch called "(yourname)_two_truths_one_lie.txt" and populate it accordingly.
 
+#### Step 5:
+  * While still on your personal branch, edit the "jokes.md" file by adding your name as a title and a joke as plain text below it.
+  * Commit and push these changes to your personal branch.
+  
 #### Step 6:
-  * I'll keep going with more advanced use cases...
+  * Hop over to GitHub in your web browser of choice. 
+  * Go through a few peoples' personal branches and comment your guesses for their "two_truths_one_lie" file ***on the commit*** that added the file to their branch.
+
+#### Step 7:
+  * Switch back to the command line terminal.
+  
+#### Step 8:
+  * From here, ensure that all changes to your branch have been pushed.
+
+#### Step 9:
+  * Switch to the _master_ branch and merge in your personal branch.
+
+#### Step 10:
+  * Hop back over to GitHub to visually verify that your unique "two_truths_one_lie" file has been added to the master branch, and that your joke is present in the master "jokes.md" file. 
+
+#### Step 11:
+  * Await Curtis's approval of your joke. Minimum of two chuckles required.
 
