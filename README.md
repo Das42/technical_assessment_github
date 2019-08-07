@@ -19,7 +19,7 @@
 
 #### Step 5:
   * Push your local personal branch upstream to the remote repo.
-    * __**hint:**__ _If you try to accomplish this using_ `git push` _alone, you will get an error. This is because your personal branch doesn't exist in the reomte repo. Remember to initialize and upstream origin for your person branch using_ `--set-upstream origin` _operator along with the_ `git push` _command._
+    * __**hint:**__ _If you try to accomplish this using_ `git push` _alone, you will get an error. This is because your personal branch doesn't exist in the reomte repo. Remember to initialize and upstream origin for your person branch using this_ `--set-upstream origin` _operator with the_ `git push` _command._
 
 #### Step 6:
   * Hop over to GitHub in your web browser of choice. 
