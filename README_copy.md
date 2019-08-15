@@ -25,7 +25,7 @@
 
 #### Step 6:
   * Push your local personal branch upstream to your remote repo.
-    * _**hint:**_ If you try to accomplish this using `git push` alone, you will get an error. This is because your personal branch doesn't exist in the reomte repo yet. To remedy this, you will need to initialize an upstream origin for your person branch. Review _[Lecture 94](https://das42.udemy.com/github-ultimate/learn/lecture/4732118#overview)_ of the Udemy training course if you need a refresher on how to do this.
+    * _**hint:**_ If you try to accomplish this using `git push` alone, you will get an error. This is because your personal branch only exists locally, and doesn't yet have an upstream origin in your remote repo. To remedy this, you will need to initialize an upstream origin for your local person branch. Review _[Lecture 94](https://das42.udemy.com/github-ultimate/learn/lecture/4732118#overview)_ of the Udemy training course if you need a refresher on how to do this.
   * Check that your branch is up to date using `git status`.
 
 #### Step 7:
