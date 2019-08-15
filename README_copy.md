@@ -13,15 +13,15 @@
       
 #### Step 3:
   * Hop back over to GitHub in your web browser.
-  * Next, clone your forked copy of this repo using SSH and move into it.
+  * Clone your forked copy of this repo using SSH and move into it.
     * _**hint:**_ Review _[Session 7](https://das42.udemy.com/github-ultimate/learn/lecture/4731854#content)_ of the Udemy training course.
 
 #### Step 4:
-  * Create a new personal branch, calling it your first name, and switch to it
+  * Create a new branch called `personal`, and switch to it.
   
 #### Step 5:
-  * Create a text file in your branch called `YOURNAME_two_truths_one_lie.txt` and populate it accordingly.
-  * Stage this file and commit these changes to your newly created personal branch.
+  * Edit the `jokes.md` file by adding your name and a joke in the existing format.
+  * Commit these changes.
     * Be sure to include a commit message.
 
 #### Step 6:
@@ -30,9 +30,10 @@
   * Check that your branch is up to date using `git status`.
 
 #### Step 7:
-  * Hop over to GitHub in your web browser and create a pull request between your forked personal branch and the original master branch (`logan-DAS42/das42_git_check`).
-    * Before submitting your pull request, tag Logan and one other person who's name appears in the `collaborators.txt` file as *Reviewers* on the pull request.
-      * __**hint:**__ You can view this file from the CLI by switching to your local master branch and typing `vi collaborators.txt`.
+  * Open the `collaborators.txt` file and remember who the last person listed is.
+    * You will need to tag this person in a moment.
+  * Hop over to GitHub in your web browser and create a pull request between your forked personal branch and the origin master branch `logan-DAS42/das42_git_check`.
+    * Before submitting your pull request, tag Logan and one other person who's name appeared at the end of the `collaborators.txt` file as *Reviewers* on the pull request.
   * Create the pull request.
   
 #### Step 8:
@@ -47,21 +48,33 @@
   * Using the same method as **Step 3** above, clone the origin repo from GitHub into `~/Desktop/git_knowledge_check/origin_repo`.
 
 #### Step 10:
-  * While on the local master branch, add your name to the `collaborators.txt` file.
-  * Next, edit the `jokes.md` file by adding your name and a joke in the existing format.
+  * Create a new branch, calling it your first name, and switch to it.
   
-  
-# STILL WORKING ON THIS
-
-#### Step 11:
-  * From here, ensure that your local master branch contains your unique _two_truths_on_lie_ file and the _jokes.md_ file with your joke in it.
-  * Push your local master branch to the remote repo.
+#### Step 11:  
+  * Create a text file in your personal branch called `YOURNAME_two_truths_one_lie.txt` and populate it accordingly.
+  * Stage this file and commit these changes.
+    * Be sure to include a commit message.
 
 #### Step 12:
-  * Hop back over to GitHub to visually verify that your unique _two_truths_one_lie_ file has been added to the master branch, and that your joke is present in the master _jokes.md_ file. 
-
+  * Switch to your local master branch and make sure it is up to date with the upstream origin.
+    * If it is not, pull down the changes.
+    * _**hint:**_ `git status` `git fetch` `git pull`
+    
 #### Step 13:
+  * In the CLI, merge your local master branch with your _FIRSTNAME_ branch.
+  * After doing so, push your local master branch up to the remote repo.
+  
+#### Step 14:
+  * Hop over to the master branch of the origin repo on GitHub and verify that:
+    1.) your unique `two_truths_one_lie` file is in the master branch
+    2.) your joke is present in the `jokes.md` file in the master branch
+    3.) your name appears in the `collaborators.txt` file
+
+#### Step 15:
   * Message Logan once you've completed these steps.
 
-#### Step 14:
-  * Await King Curtis's approval of your joke (minimum of two chuckles required) and eagerly await your letter of acceptance into the annex. 
+#### Step 16:
+  * Await Curtis's approval of your joke (minimum of two chuckles required) and eagerly await your letter of acceptance as an honorary member of the annex. 
+
+#### Step 17:
+  * Pat yourself on the back, because you're done.
