@@ -1,33 +1,39 @@
 # Welcome!
 ## This repo will show you how to become an honorary member of the annex, and will help you practice Git along the way.
-### Complete the steps below independently once you have finished the GitHub Ultimate course on Udemy. All of the steps should be completed from the command line unless specified otherwise.
+### Complete the steps below independently once you have finished the GitHub Ultimate course on Udemy. All of the steps should be completed from the command line unless specified otherwise. Feel free to reach out to Logan with any questions you might have.
 
 #### Step 1:
-  * Email/Slack Logan with your GitHub username to be added as a collaborator on this repo.
+  * Fork this repo in GitHub.
+    * _***hint:***_ Checkout the top left of the page.
 
 #### Step 2:
-  * Clone this repo using SSH.
-    * __**hint:**__ _checkout [Session 7](https://das42.udemy.com/github-ultimate/learn/lecture/4731854#content) of the Udemy training course_
-
+  * Open your CLI of choice _(iTerm2, Terminal, etc.)_
+  * In your **Desktop** directory, create a new directory called "Git Knowledge Check" and move into it.
+      * _**hint:**_ `mkdir` `cd`
+      
 #### Step 3:
-  * Create a personal branch (yourname) and switch to it. 
-    * You will merge this personal branch to _master_ later on.
-  
-#### Step 4:
-  * Create a text file in your branch called _YOURNAME_two_truths_one_lie.txt_ and populate it accordingly.
-  * Commit these changes to your local personal branch.
+  * Hop back over to GitHub in your web browser.
+  * Next, clone your forked copy of this repo using SSH and move into it.
+    * _**hint:**_ Review _[Session 7](https://das42.udemy.com/github-ultimate/learn/lecture/4731854#content)_ of the Udemy training course.
 
+#### Step 4:
+  * Create a new personal branch, calling it your first name, and switch to it
+  
 #### Step 5:
-  * Push your local personal branch upstream to the remote repo.
-    * __**hint:**__ _If you try to accomplish this using_ `git push` _alone, you will get an error. This is because your personal branch doesn't exist in the reomte repo. Remember to initialize and upstream origin for your person branch using this_ `--set-upstream origin` _operator with the_ `git push` _command._
+  * Create a text file in your branch called `YOURNAME_two_truths_one_lie.txt` and populate it accordingly.
+  * Stage this file and commit these changes to your newly created personal branch.
+    * Be sure to include a commit message.
 
 #### Step 6:
-  * Hop over to GitHub in your web browser of choice. 
-  * Go through a few peoples' personal branches and comment your guesses for their _two_truths_one_lie_ file **on the commit** that added the file to their branch.
-  * Head back to your terminal when you are done.
+  * Push your local personal branch upstream to your remote repo.
+    * _**hint:**_ If you try to accomplish this using `git push` alone, you will get an error. This is because your personal branch doesn't exist in the reomte repo yet. To remedy this, you will need to initialize an upstream origin for your person branch. Review _[Lecture 94](https://das42.udemy.com/github-ultimate/learn/lecture/4732118#overview)_ of the Udemy training course if you need a refresher on how to do this.
+  * Check that your branch is up to date using `git status`.
 
 #### Step 7:
-  * Switch to your local master branch and pull from the remote master branch to make sure that everything is up to date.
+  * Hop over to GitHub in your web browser and create a pull request between your forked personal branch and the 
+
+# Still Editing
+
 
 #### Step 8
   * Merge your local master branch with your local personal branch.
