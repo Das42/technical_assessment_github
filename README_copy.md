@@ -1,5 +1,4 @@
-# Welcome!
-## This repo will show you how to become an honorary member of the annex, and will help you practice Git along the way.
+# Welcome! This repo will show you how to become an honorary member of the annex, and will help you practice Git along the way.
 ### Complete the steps below independently once you have finished the GitHub Ultimate course on Udemy. All of the steps should be completed from the command line unless specified otherwise. Feel free to reach out to Logan with any questions you might have.
 
 #### Step 1:
