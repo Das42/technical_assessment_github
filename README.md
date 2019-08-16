@@ -21,8 +21,8 @@
   
 #### Step 5:
   * Edit the `jokes.md` file by adding your name and a joke in the existing format.
-  * Commit these changes.
-    * Be sure to include a commit message.
+  * Stage and commit these changes and be sure to include a commit message.
+    * This can be done with one command.
 
 #### Step 6:
   * Push your local personal branch upstream to your remote repo.
@@ -46,6 +46,9 @@
       * `forked_repo`
       * `origin_repo`
   * Using the same method as **Step 3** above, clone the origin repo from GitHub into `~/Desktop/git_knowledge_check/origin_repo`.
+    * You should now have a local repo of the original repo in your `origin_repo` directory.
+      * _**hint:**_ It should look something like this:
+        * `~/Desktop/git_knowledge_check/origin_repo/onboarding_git_knowledge_check`
 
 #### Step 10:
   * Create a new branch, calling it your first name, and switch to it.
