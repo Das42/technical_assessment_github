@@ -66,9 +66,9 @@
   
 #### Step 14:
   * Hop over to the master branch of the origin repo on GitHub and verify that:
-    1.) your unique `two_truths_one_lie` file is in the master branch
-    2.) your joke is present in the `jokes.md` file in the master branch
-    3.) your name appears in the `collaborators.txt` file
+    1. your unique `two_truths_one_lie` file is in the master branch
+    2. your joke is present in the `jokes.md` file in the master branch
+    3. your name appears in the `collaborators.txt` file
 
 #### Step 15:
   * Message Logan once you've completed these steps.
