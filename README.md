@@ -30,8 +30,9 @@
   * Check that your branch is up to date using `git status`.
 
 #### Step 7:
-  * Open the `collaborators.txt` file and remember who the last person listed is.
+  * Look at the `collaborators.txt` file and remember who the last person listed is.
     * You will need to tag this person in a moment.
+    * **Don't make any edits to this file just yet.**
   * Hop over to GitHub in your web browser and create a pull request between your forked personal branch and the origin master branch `Das42/onboarding_git_knowledge_check`.
     * Before submitting your pull request, tag Logan and one other person who's name appeared at the end of the `collaborators.txt` file as *Reviewers* on the pull request.
   * Create the pull request.
