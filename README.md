@@ -1,5 +1,5 @@
 # Welcome! This repo will show you how to become an honorary member of the annex, and will test your knowledge of Git/GitHub concepts along the way.
-### Independently complete the steps below once you have finished the GitHub Ultimate course on Udemy. All of the steps should be completed from the command line unless specified otherwise. Feel free to reach out to Logan with any questions you might have about this assignment.
+### Independently complete the steps below once you have finished the [GitHub Ultimate](https://das42.udemy.com/github-ultimate/learn/lecture/4493018#overview) course on [Udemy](https://das42.udemy.com/organization/home/). All of the steps should be completed from your command line interface (henceforth referred to as CLI) unless specified otherwise. Feel free to reach out to Logan with any questions you might have about this assignment.
 
 #### Step 1:
   * Fork this repo in GitHub.
