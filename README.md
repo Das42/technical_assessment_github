@@ -32,7 +32,7 @@
 #### Step 7:
   * Open the `collaborators.txt` file and remember who the last person listed is.
     * You will need to tag this person in a moment.
-  * Hop over to GitHub in your web browser and create a pull request between your forked personal branch and the origin master branch `logan-DAS42/das42_git_check`.
+  * Hop over to GitHub in your web browser and create a pull request between your forked personal branch and the origin master branch `Das42/onboarding_git_knowledge_check`.
     * Before submitting your pull request, tag Logan and one other person who's name appeared at the end of the `collaborators.txt` file as *Reviewers* on the pull request.
   * Create the pull request.
   
@@ -41,8 +41,8 @@
 
 #### Step 9:
   * Once your pull request has been approved, and Logan has added you as a Collaborator, return to your CLI.
-  * Create a new directory in your `~/Desktop/git_knowledge_check/` directory called `"origin_repo"`.
-    * Your `~/Desktop/Git_Knowledge_Check/` directory should now contain two directories:
+  * Create a new directory in your `~/Desktop/git_knowledge_check/` directory called `origin_repo`.
+    * Your `~/Desktop/git_knowledge_check/` directory should now contain two directories:
       * `forked_repo`
       * `origin_repo`
   * Using the same method as **Step 3** above, clone the origin repo from GitHub into `~/Desktop/git_knowledge_check/origin_repo`.
