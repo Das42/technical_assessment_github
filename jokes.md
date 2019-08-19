@@ -26,8 +26,10 @@ Mist.
 A slice of apple pie is $2.50 in Jamaica and $3.00 in the Bahamas. These are the pie rates of the Caribbean.
 
 # Mik
-What do you call a person who runs behind a car?
+What do you call a group of 5 guys named Curtis that
+are all wearing matching suits?
 .
 .
 .
-Exhausted.  
+A Curtis-y flush
+(joke from reddit)  
