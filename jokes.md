@@ -37,4 +37,4 @@ Which are the stronger days of the week?
 .
 .
 .
-Saturday and Sunday, because the rest are "Weakday".....
+Saturday and Sunday, because the rest are "Weekday"
