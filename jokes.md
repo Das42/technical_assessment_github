@@ -33,3 +33,10 @@ are all wearing matching suits?
 .
 A Curtis-y flush
 (joke from reddit)  
+
+# Renee
+Which are the stronger days of the week?
+.
+.
+.
+Saturday and Sunday, because the rest are "Weekday"
