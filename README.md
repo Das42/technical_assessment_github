@@ -31,14 +31,15 @@
 
 #### Step 7:
   * Look at the `collaborators.txt` file and remember who the last person listed is.
-    * You will need to tag this person in a moment.
     * **Don't make any edits to this file just yet.**
   * Hop over to GitHub in your web browser and create a pull request between your forked personal branch and the origin master branch `Das42/onboarding_git_knowledge_check`.
-    * Before submitting your pull request, tag Logan and one other person who's name appeared at the end of the `collaborators.txt` file as *Reviewers* on the pull request.
-  * Create the pull request.
   
 #### Step 8:
-  * Send Logan a message on Slack letting him know that you have created the pull request. Give him your GitHub username as well, so that he can add you as a Collaborator on the origin repo for the next steps of this assignment.
+  * Send Logan a message on Slack letting him know that you have created the pull request. Be sure to include the following things:
+    1. your GitHub username
+    2. the person who's name you saw at the end of the `collaborators.txt` file
+    3. a link to your forked copy of the original repo
+       * should look something like `https://github.com/YOURUSERNAME/onboarding_git_knowledge_check`
 
 #### Step 9:
   * Once your pull request has been approved, and Logan has added you as a Collaborator, return to your CLI.
