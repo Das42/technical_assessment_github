@@ -31,3 +31,10 @@ What do you call a person who runs behind a car?
 .
 .
 Exhausted.  
+
+# Renee
+Which are the stronger days of the week?
+.
+.
+.
+Saturday and Sunday, because the rest are "Weakday".....
