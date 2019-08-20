@@ -40,3 +40,11 @@ Which are the stronger days of the week?
 .
 .
 Saturday and Sunday, because the rest are "Weekday"
+
+#Kirsten
+Why did the developer go broke?
+.
+.
+.
+.
+Because he used up all his cache. 
