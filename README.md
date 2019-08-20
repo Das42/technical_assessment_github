@@ -67,7 +67,7 @@
     
 #### Step 13:
   * In the CLI, merge your local master branch with your _FIRSTNAME_ branch.
-  * After doing so, push your local master branch up to the remote repo.
+  * After doing so, stage your changes and push your local master branch up to the remote repo.
   
 #### Step 14:
   * Hop over to the master branch of the origin repo on GitHub and verify that:
