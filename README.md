@@ -42,7 +42,7 @@
        * should look something like `https://github.com/YOURUSERNAME/onboarding_git_knowledge_check`
 
 #### Step 9:
-  * Once your pull request has been approved, and Logan has added you as a Collaborator, return to your CLI.
+  * Once your pull request has been approved, and Logan has sent you an invite to be a Collaborator, accept the invite and return to your CLI.
   * Create a new directory in your `~/Desktop/git_knowledge_check/` directory called `origin_repo`.
     * Your `~/Desktop/git_knowledge_check/` directory should now contain two directories:
       * `forked_repo`
@@ -57,6 +57,7 @@
   
 #### Step 11:  
   * Create a text file in your personal branch called `YOURNAME_two_truths_one_lie.txt` and populate it accordingly.
+  * Add your name to the `Collaborators.txt` file as well as the date you are completeing this step.
   * Stage this file and commit these changes.
     * Be sure to include a commit message.
 
