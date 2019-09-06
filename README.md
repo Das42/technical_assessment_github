@@ -1,19 +1,18 @@
 # Welcome! This repo will show you how to become an honorary member of the annex, and will test your knowledge of Git/GitHub along the way.
-### Independently complete the steps below once you have finished the [GitHub Ultimate](https://das42.udemy.com/github-ultimate/learn/lecture/4493018#overview) course on [Udemy](https://das42.udemy.com/organization/home/). All of the steps should be completed from the command line in your interpreter of choice ([iTerm2](https://das-42.atlassian.net/wiki/spaces/DI/pages/230641/Other+Useful+Tools) is what the majority of the team at DAS42 uses) unless specified otherwise. Feel free to reach out to Logan with any questions you might have about this assignment.
+### Independently complete the steps below once you have finished the [GitHub Ultimate](https://das42.udemy.com/github-ultimate/learn/lecture/4493018#overview) course on [Udemy](https://das42.udemy.com/organization/home/). All of the steps should be completed from the command line in your emulator of choice ([iTerm2](https://das-42.atlassian.net/wiki/spaces/DI/pages/230641/Other+Useful+Tools) is what the majority of the team at DAS42 uses, but you are welcome to use Terminal, or another comparable option) unless specified otherwise. Feel free to reach out to Logan at any point during this assignment with any questions you might have.
 
 #### Step 1:
-  * Fork this repo in GitHub.
-    * _***hint:***_ Checkout the top right of the page.
+  * In your web browser of choice, fork this repo on GitHub.
+    * _***hint:***_ Checkout the top right of the repo page.
 
 #### Step 2:
-  * Open your CLI of choice _(iTerm2, Terminal, etc.)_
+  * Open your CLI emulator of choice _(iTerm2, Terminal, etc.)_
   * In your `~/Desktop/` directory, create a new directory called `git_knowledge_check` and move into it.
       * _**hint:**_ `mkdir` `cd`
   * Once there, create another new directory named `forked_repo` and move into it.
       
 #### Step 3:
-  * Hop back over to GitHub in your web browser.
-  * Clone your forked copy of this repo using SSH and move into it.
+  * Clone your forked copy to this `forked_repo` directory using SSH and `cd` into it.
     * _**hint:**_ Review _[Session 7](https://das42.udemy.com/github-ultimate/learn/lecture/4731854#content)_ of the Udemy training course.
 
 #### Step 4:
@@ -22,7 +21,7 @@
 #### Step 5:
   * Edit the `jokes.md` file by adding your name and a joke in the existing format.
   * Stage and commit these changes and be sure to include a commit message.
-    * This can be done with one command.
+    * _**hint:**_ This can be done with one command.
 
 #### Step 6:
   * Push your local personal branch upstream to your remote repo.
