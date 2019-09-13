@@ -47,4 +47,13 @@ Why did the developer go broke?
 .
 .
 .
-Because he used up all his cache. 
+Because he used up all his cache.
+
+# Pei
+What did the 0 say to the 8?
+.
+.
+.
+.
+.
+Nice belt.
