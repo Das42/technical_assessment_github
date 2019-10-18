@@ -67,3 +67,14 @@ How does Harry Potter get down a hill?
 .
 .
 Walking JK Rowling.
+
+#Valeria
+A SQL query goes to a bar, walks up to two tables and ask... 
+.
+.
+.
+.
+.
+.
+Can I join you?
+
