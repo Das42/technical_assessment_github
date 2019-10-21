@@ -67,3 +67,13 @@ How does Harry Potter get down a hill?
 .
 .
 Walking JK Rowling.
+
+# Yelson
+
+How come ants don't get sick?
+
+
+
+
+
+They have little anty bodies.
