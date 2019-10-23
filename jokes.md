@@ -88,3 +88,10 @@ A SQL query goes to a bar, walks up to two tables and ask...
 .
 Can I join you?
 
+# Chase
+A photon walks into a hotel. The desk clerk says, "Welcome! Can we help you with your luggage?"
+.
+.
+.
+.
+The photon says "No thanks, I'm traveling light"
