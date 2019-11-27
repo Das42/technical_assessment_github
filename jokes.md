@@ -95,3 +95,11 @@ A photon walks into a hotel. The desk clerk says, "Welcome! Can we help you with
 .
 .
 The photon says "No thanks, I'm traveling light"
+
+# Lisa
+I heard Boron, Ruthenium, and Hydrogen got into a fight.
+.
+.
+.
+.
+And I was like, "BRuH!"
