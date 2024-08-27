@@ -103,3 +103,8 @@ I heard Boron, Ruthenium, and Hydrogen got into a fight.
 .
 .
 And I was like, "BRuH!"
+
+# Manju
+Why don't skeletons fight each other?
+
+They don't have the guts! 
